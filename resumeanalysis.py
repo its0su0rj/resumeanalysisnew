@@ -12,7 +12,8 @@ import openai
 import json
 
 # Set your OpenAI API key
-openai.api_key = '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'
+openai.api_key = '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'
+
 
 def generate_suggestions(resume_text, job_profile):
     # Start the chat with the introduction of the assistant and the text from the file
