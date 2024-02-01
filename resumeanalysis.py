@@ -12,7 +12,7 @@ import openai
 import json
 
 # Set your OpenAI API key
-openai.api_key = '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'  #lotus openai
+openai.api_key = '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'  #lotus openai
 
 
 def generate_suggestions(resume_text, job_profile):
